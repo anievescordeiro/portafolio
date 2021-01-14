@@ -12,4 +12,4 @@ However, the main insights you'll find here will be ralated to:
 
 Having said that, here is a list of things that may interest you. Let's take a look on them!
 
-1. **The House Price** problem: in this repo you'll see a step-by-step Jupyter Notebook with a little bit of Data Analysis and the application of two ML regression algorithms (Linear Regression and Random Forest) to predict the sale price of a house. This Kaggle competition is very fresh to start with some important concepts. Have fun exploring this 🙌🏼  [ click here](https://github.com/anievescordeiro/house-prices)
+1. **The House Price** problem: in this repo you'll see a step-by-step Jupyter Notebook with a little bit of Data Analysis and the application of two ML regression algorithms (Linear Regression and Random Forest) to predict the sale price of a house. This Kaggle competition is very fresh to start with some important concepts. Have fun exploring this 🙌🏼  [(click here)](https://github.com/anievescordeiro/house-prices)
