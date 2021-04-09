@@ -2,7 +2,7 @@
 
 In this place you'll find a list of Data Science personal projects documented in Jupyter Notebooks.
 
-Every project will be identified with a link that redirects to corresponding repo, in order to provide extensive datails and the opportunity to play with code if you are interested.
+Every project will be identified with a link that redirects to corresponding repo, in order to provide extensive details and the opportunity to play with code if you are interested.
 
 However, the main information you'll find here will be ralated to:
 
